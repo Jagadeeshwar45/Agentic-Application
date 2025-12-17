@@ -33,8 +33,8 @@ A powerful, AI-powered document processing and analysis tool that can extract te
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/agentic-document-assistant.git
-   cd agentic-document-assistant
+   git clone https://github.com/Jagadeeshwar45/Agentic-Application.git
+   cd Agentic-Application
    ```
 
 2. Create and activate a virtual environment:
