@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+google-generativeai
+easyocr             
+numpy
+pdfplumber
+youtube-transcript-api==0.6.2
+streamlit
+httpx
+pytest
+python-dotenv
+Pillow
+faster-whisper
