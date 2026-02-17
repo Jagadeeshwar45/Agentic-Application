@@ -1,5 +1,9 @@
 # Agentic Document Assistant
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://jagadeeshwar45-agentic-application-app-ui-jvfcfh.streamlit.app/)
+
+
+
 A powerful, AI-powered document processing and analysis tool that can extract text from various file formats and provide intelligent responses to user queries. Built with FastAPI and modern AI technologies.
 
 ## 🌟 Features
@@ -63,15 +67,12 @@ Start the FastAPI backend:
 uvicorn app.main:app --reload
 ```
 
-The API will be available at `http://localhost:8000`
-
 ### Web Interface
 Start the Streamlit interface:
 ```bash
 streamlit run app_ui.py
 ```
 
-Access the web interface at `http://localhost:8501`
 
 ## 🛠️ API Endpoints
 
